@@ -1,0 +1,6 @@
+Chimpanzee Populations in Africa:
+DR Congo,9000
+Uganda,5100
+Nigeria,6000
+Guinea,11300
+Liberia,4460

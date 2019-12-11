@@ -1,0 +1,8 @@
+Numbers of Snow Leopard in the world:
+Nepal,500
+Bhutan,200
+India,400
+China,2300
+Kazakhstan,200
+Mongolia,900
+Pakistan,420

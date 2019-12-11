@@ -1,0 +1,6 @@
+Numbers of Asian Elephants in Asian Countries:
+India,22120
+Sri Lanka,3200
+Cambodia,3000
+Malaysia,1700
+Indonesia,5500

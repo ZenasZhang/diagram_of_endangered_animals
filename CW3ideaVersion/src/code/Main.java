@@ -9,5 +9,6 @@ public class Main {
         new DrawChimpanzee();
         new DrawSnowLeopard();
         new DrawAsianElephant();
+		// test
     }
 }

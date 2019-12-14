@@ -38,7 +38,7 @@ appendix for example)
     e.g. data path, image path and value of key) as parameters of super class
     methods, and then use these methods to create picture.
 	
-    The most important class is ReadAndCreate, it extends JFrame and implements
+###The most important class is ReadAndCreate, it extends JFrame and implements
     Readable.
     First, it has read() by implementing Readable. This method can read csv file
     and get a Map and an ArrayList stores key of the Map.
